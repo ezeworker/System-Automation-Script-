@@ -2,7 +2,7 @@
 $outputFile = "Your file Path C:\.."
 	
 # Start writing to the output file and display in the shell
-"System Automation script:" | Tee-Object -FilePath $outputFile 
+"System Info Automation script:" | Tee-Object -FilePath $outputFile 
 "----------------------" | Tee-Object -FilePath $outputFile -Append 
 # Get the OS name and store it in a variable
 $osVersion = (Get-ComputerInfo).OsName
