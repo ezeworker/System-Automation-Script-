@@ -1,4 +1,4 @@
-# System-Automation-Script-
+# System-Information-Gathering-Automation-Script-
 
 ## Objective
 This System Automation Project is aimed to automate the process of gathering and logging system information . The primary focus was to produce a script that saves time and can be ran on any windows and linux environment for troubleshooting purposes. This is done by producing a script in Powershell for windows enviornments and a Bash script for Linux enviornments. 
