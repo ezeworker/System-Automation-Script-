@@ -9,7 +9,6 @@ This System Automation Project is aimed to automate the process of gathering and
 - Proficiency with Command-Line Interfaces.
 - Ability to find solutions to problems.
 - Error handling and Debugging techniques.
-- Development of critial thinking and problem-solving skills in information technology and security.
 
 ### Tools Used
 
