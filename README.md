@@ -16,11 +16,5 @@ This System Automation Project is aimed to automate the process of gathering and
 - Bash
 - Powershell
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Outputs
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
